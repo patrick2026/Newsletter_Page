@@ -3,7 +3,7 @@
 📱 Demonstração
 <br>
 <br>
-🔗 Acesse o projeto aqui 
+🔗 Acesse o projeto aqui https://patrick2026.github.io/Newsletter_Page/
 
 <br>
 🚀 Tecnologias Utilizadas
